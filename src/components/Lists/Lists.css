@@ -1,0 +1,23 @@
+  .child {
+    float: left;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Oxygen Mono', monospace;
+    color: #eeeeee;
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-left: 88px;
+  }
+
+.heart{
+    width: 23px;
+    height: 23px;
+}
+
+li{
+    font-size: 14px;
+    font-weight: 400;
+    color: #c9cacc;
+    padding-bottom: 5px;
+}
+

@@ -1,0 +1,16 @@
+.title{
+    color: rgb(43,188,138);
+    font-family: 'Oxygen Mono', monospace;
+    font-size: 28px;
+    font-weight: 700;
+    padding-left: 88px;
+    padding-top: 88px;
+    
+}
+
+.subtitle {
+    color: #666666;
+    font-size: 17px;
+    font-weight: 700;
+    padding-top: 21px;
+}

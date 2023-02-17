@@ -1,0 +1,40 @@
+.heading{
+    color: rgb(43,188,138);
+    font-family: 'Oxygen Mono', monospace;
+    font-size: 21px;
+    font-weight: 700;
+    padding-left: 88px;
+    padding-top: 54px;
+
+    
+}
+
+.bodypt{
+    color: rgb(201,202,204);
+    font-family: 'Oxygen Mono', monospace;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 25px;
+    padding-left: 88px;
+    padding-right: 89px;
+}
+
+.bodypt2{
+    color: rgb(201,202,204);
+    font-family: 'Oxygen Mono', monospace;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-left: 88px;
+    padding-right: 89px;
+}
+
+.bodypt3{
+    color: rgb(201,202,204);
+    font-family: 'Oxygen Mono', monospace;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-left: 88px;
+    padding-right: 89px;
+}
