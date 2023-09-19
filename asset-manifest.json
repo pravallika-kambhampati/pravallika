@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pravzzyy.github.io/static/css/main.0aeed3c0.css",
-    "main.js": "/pravzzyy.github.io/static/js/main.dba69ac4.js",
-    "static/js/787.28cb0dcd.chunk.js": "/pravzzyy.github.io/static/js/787.28cb0dcd.chunk.js",
-    "static/media/CIHM.jpg": "/pravzzyy.github.io/static/media/CIHM.5a78c2846af0c2ae097d.jpg",
-    "static/media/AK.jpg": "/pravzzyy.github.io/static/media/AK.d1419c6d2b7fe3e9befb.jpg",
-    "static/media/bdc.jpg": "/pravzzyy.github.io/static/media/bdc.079a7ab1739ee10a7a37.jpg",
-    "static/media/MWW.jpg": "/pravzzyy.github.io/static/media/MWW.c5f14c96d3db719f2d76.jpg",
-    "static/media/IwanttoDie.jpg": "/pravzzyy.github.io/static/media/IwanttoDie.d67ea92a336d89371c2d.jpg",
-    "static/media/M.jfif": "/pravzzyy.github.io/static/media/M.203618c9a787270f911b.jfif",
-    "static/media/ETS.jpg": "/pravzzyy.github.io/static/media/ETS.6ea3b7c4b6cab10f56a2.jpg",
-    "static/media/Bird.jpg": "/pravzzyy.github.io/static/media/Bird.982071060cedde04f6f6.jpg",
-    "index.html": "/pravzzyy.github.io/index.html",
-    "main.0aeed3c0.css.map": "/pravzzyy.github.io/static/css/main.0aeed3c0.css.map",
-    "main.dba69ac4.js.map": "/pravzzyy.github.io/static/js/main.dba69ac4.js.map",
-    "787.28cb0dcd.chunk.js.map": "/pravzzyy.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/pravzzyy.github.io/pravallika/static/css/main.0aeed3c0.css",
+    "main.js": "/pravzzyy.github.io/pravallika/static/js/main.ce655d38.js",
+    "static/js/787.28cb0dcd.chunk.js": "/pravzzyy.github.io/pravallika/static/js/787.28cb0dcd.chunk.js",
+    "static/media/CIHM.jpg": "/pravzzyy.github.io/pravallika/static/media/CIHM.5a78c2846af0c2ae097d.jpg",
+    "static/media/AK.jpg": "/pravzzyy.github.io/pravallika/static/media/AK.d1419c6d2b7fe3e9befb.jpg",
+    "static/media/bdc.jpg": "/pravzzyy.github.io/pravallika/static/media/bdc.079a7ab1739ee10a7a37.jpg",
+    "static/media/MWW.jpg": "/pravzzyy.github.io/pravallika/static/media/MWW.c5f14c96d3db719f2d76.jpg",
+    "static/media/IwanttoDie.jpg": "/pravzzyy.github.io/pravallika/static/media/IwanttoDie.d67ea92a336d89371c2d.jpg",
+    "static/media/M.jfif": "/pravzzyy.github.io/pravallika/static/media/M.203618c9a787270f911b.jfif",
+    "static/media/ETS.jpg": "/pravzzyy.github.io/pravallika/static/media/ETS.6ea3b7c4b6cab10f56a2.jpg",
+    "static/media/Bird.jpg": "/pravzzyy.github.io/pravallika/static/media/Bird.982071060cedde04f6f6.jpg",
+    "index.html": "/pravzzyy.github.io/pravallika/index.html",
+    "main.0aeed3c0.css.map": "/pravzzyy.github.io/pravallika/static/css/main.0aeed3c0.css.map",
+    "main.ce655d38.js.map": "/pravzzyy.github.io/pravallika/static/js/main.ce655d38.js.map",
+    "787.28cb0dcd.chunk.js.map": "/pravzzyy.github.io/pravallika/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0aeed3c0.css",
-    "static/js/main.dba69ac4.js"
+    "static/js/main.ce655d38.js"
   ]
 }
